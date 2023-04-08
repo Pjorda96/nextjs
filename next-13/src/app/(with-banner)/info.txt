@@ -1,0 +1,1 @@
+To group different routes inside a same layout (logged in, dashboard, config). Move here the route
